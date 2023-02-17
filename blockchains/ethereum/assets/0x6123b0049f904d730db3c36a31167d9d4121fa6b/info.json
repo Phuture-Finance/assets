@@ -1,0 +1,11 @@
+{
+  "name": "Ribbon Finance",
+  "symbol": "RBN",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://www.ribbon.finance",
+  "explorer": "https://etherscan.io/token/0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+  "status": "abandoned",
+  "id": "0x6123b0049f904d730db3c36a31167d9d4121fa6b"
+}
